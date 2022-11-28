@@ -1,0 +1,15 @@
+D:\Studies\watiTestProject\BusinessLayer\bin\Debug\net6.0\BusinessLayer.deps.json
+D:\Studies\watiTestProject\BusinessLayer\bin\Debug\net6.0\BusinessLayer.dll
+D:\Studies\watiTestProject\BusinessLayer\bin\Debug\net6.0\BusinessLayer.pdb
+D:\Studies\watiTestProject\BusinessLayer\bin\Debug\net6.0\DataLayer.dll
+D:\Studies\watiTestProject\BusinessLayer\bin\Debug\net6.0\DataLayer.pdb
+D:\Studies\watiTestProject\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.AssemblyReference.cache
+D:\Studies\watiTestProject\BusinessLayer\obj\Debug\net6.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studies\watiTestProject\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfoInputs.cache
+D:\Studies\watiTestProject\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfo.cs
+D:\Studies\watiTestProject\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\Studies\watiTestProject\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CopyComplete
+D:\Studies\watiTestProject\BusinessLayer\obj\Debug\net6.0\BusinessLayer.dll
+D:\Studies\watiTestProject\BusinessLayer\obj\Debug\net6.0\refint\BusinessLayer.dll
+D:\Studies\watiTestProject\BusinessLayer\obj\Debug\net6.0\BusinessLayer.pdb
+D:\Studies\watiTestProject\BusinessLayer\obj\Debug\net6.0\ref\BusinessLayer.dll
