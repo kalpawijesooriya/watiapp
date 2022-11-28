@@ -8,6 +8,6 @@ namespace BusinessLayer
 {
     public interface IMathService
     {
-       int Add(int num1, int num2);
+        Task<int> Add(int num1, int num2);
     }
 }

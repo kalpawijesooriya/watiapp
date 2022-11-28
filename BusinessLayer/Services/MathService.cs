@@ -14,7 +14,7 @@ namespace BusinessLayer
         {
             _dbContext = dbContext;
         }
-        public int Add(int num1, int num2)
+        public async Task<int> Add(int num1, int num2)
         {
             var sum = num1 + num2;
 
@@ -24,7 +24,7 @@ namespace BusinessLayer
                 Number2 = num2,
                 Sum = sum
             };
-           // await _dbContext.Maths.InsertOneAsync(math);
+            await _dbContext.Maths.InsertOneAsync(math);
             return sum;
         }
     }
